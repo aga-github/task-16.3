@@ -1,0 +1,25 @@
+{
+  "name": "task-16.3",
+  "version": "1.0.0",
+  "description": "Zadanie: Pierwsza działająca konfiguracja na repozytorium",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aga-github/task-16.3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aga-github/task-16.3/issues"
+  },
+  "homepage": "https://github.com/aga-github/task-16.3#readme",
+  "devDependencies": {
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.5"
+  }
+}
